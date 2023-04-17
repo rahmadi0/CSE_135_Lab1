@@ -94,7 +94,7 @@ In the DevTools, we saw that the size of the transferred content was significant
 
 ## Summary of removing 'server' header
 
-To be completed
+We needed to go and change the configuration of the headmods and turn of the default server name and add a custom server name. we also had to change it in secuirity mods as it was also changing the server name.
 
 ## Screenshots
 
@@ -118,4 +118,5 @@ To be completed
 
 ![error-page](https://user-images.githubusercontent.com/65462752/232351911-e7014925-55e0-4da9-a279-29f9629d7422.jpg)
 
+![report-verification](https://user-images.githubusercontent.com/65462752/232356457-9d829420-1ac1-473f-bfdc-b120c8b18d67.jpg)
 
