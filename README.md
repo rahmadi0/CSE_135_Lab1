@@ -116,3 +116,6 @@ To be completed
 
 ![compression-vereify3](https://user-images.githubusercontent.com/65462752/232345898-fa4ab1c9-df44-43ef-93b7-56b4b096d132.jpg)
 
+![error-page](https://user-images.githubusercontent.com/65462752/232351911-e7014925-55e0-4da9-a279-29f9629d7422.jpg)
+
+
