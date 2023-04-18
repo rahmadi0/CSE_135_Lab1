@@ -117,4 +117,7 @@ We needed to go and change the configuration of the headmods and turn of the def
 
 ![error-page](https://user-images.githubusercontent.com/65462752/232351911-e7014925-55e0-4da9-a279-29f9629d7422.jpg)
 
+![log-verification](https://user-images.githubusercontent.com/98855534/232692533-16a51694-56d8-4573-a98c-5b579ef7edd7.jpg)
+
+
 ![report-verification](https://user-images.githubusercontent.com/65462752/232356457-9d829420-1ac1-473f-bfdc-b120c8b18d67.jpg)
