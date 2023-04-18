@@ -107,7 +107,6 @@ We needed to go and change the configuration of the headmods and turn of the def
 ![vhosts-verify](https://user-images.githubusercontent.com/65462752/232345438-df7f8f87-537f-43da-8a6e-fc03285b26ed.jpg)
 
 
-
 ![php-verification](https://user-images.githubusercontent.com/65462752/232345675-2e76f2f4-bdaf-4e14-89a1-fdb39612519c.jpg)
 
 ![compression-verify1](https://user-images.githubusercontent.com/65462752/232345819-7cf4398a-5688-41ad-8516-019eb3b27f9a.jpg)
@@ -115,11 +114,7 @@ We needed to go and change the configuration of the headmods and turn of the def
 ![compression-verify2](https://user-images.githubusercontent.com/65462752/232345837-2eec771b-1544-4afe-8ff7-3495b7c2a52b.jpg)
 
 ![compression-vereify3](https://user-images.githubusercontent.com/65462752/232345898-fa4ab1c9-df44-43ef-93b7-56b4b096d132.jpg)
-<<<<<<< HEAD
-=======
 
 ![error-page](https://user-images.githubusercontent.com/65462752/232351911-e7014925-55e0-4da9-a279-29f9629d7422.jpg)
 
 ![report-verification](https://user-images.githubusercontent.com/65462752/232356457-9d829420-1ac1-473f-bfdc-b120c8b18d67.jpg)
-
->>>>>>> dd2cb05d7c1b708d8f1fc98e04b07e6d8820b735
