@@ -106,7 +106,7 @@ To be completed
 
 ![vhosts-verify](https://user-images.githubusercontent.com/65462752/232345438-df7f8f87-537f-43da-8a6e-fc03285b26ed.jpg)
 
-![SSL-verify](https://user-images.githubusercontent.com/65462752/232345458-874cbb26-bf52-4b11-a0f3-91a4caab965a.jpg)
+
 
 ![php-verification](https://user-images.githubusercontent.com/65462752/232345675-2e76f2f4-bdaf-4e14-89a1-fdb39612519c.jpg)
 
@@ -115,4 +115,3 @@ To be completed
 ![compression-verify2](https://user-images.githubusercontent.com/65462752/232345837-2eec771b-1544-4afe-8ff7-3495b7c2a52b.jpg)
 
 ![compression-vereify3](https://user-images.githubusercontent.com/65462752/232345898-fa4ab1c9-df44-43ef-93b7-56b4b096d132.jpg)
-
