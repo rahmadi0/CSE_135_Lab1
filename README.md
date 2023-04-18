@@ -106,6 +106,8 @@ We needed to go and change the configuration of the headmods and turn of the def
 
 ![vhosts-verify](https://user-images.githubusercontent.com/65462752/232345438-df7f8f87-537f-43da-8a6e-fc03285b26ed.jpg)
 
+![SSL-verify jpg](https://user-images.githubusercontent.com/98855534/232701320-7f55200c-dc85-453d-9c8e-366e68262844.png)
+
 
 ![php-verification](https://user-images.githubusercontent.com/65462752/232345675-2e76f2f4-bdaf-4e14-89a1-fdb39612519c.jpg)
 
