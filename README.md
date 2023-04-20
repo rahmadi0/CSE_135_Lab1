@@ -108,6 +108,7 @@ We needed to go and change the configuration of the headmods and turn of the def
 
 ![SSL-verify jpg](https://user-images.githubusercontent.com/98855534/232701320-7f55200c-dc85-453d-9c8e-366e68262844.png)
 
+![header-verify](https://user-images.githubusercontent.com/98855534/233258439-a6a031af-a127-4da4-a4ec-6bb48fb8353c.png)
 
 ![php-verification](https://user-images.githubusercontent.com/65462752/232345675-2e76f2f4-bdaf-4e14-89a1-fdb39612519c.jpg)
 
