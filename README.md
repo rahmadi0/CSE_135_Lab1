@@ -94,7 +94,7 @@ In the DevTools, we saw that the size of the transferred content was significant
 
 ## Summary of removing 'server' header
 
-We needed to go and change the configuration of the headmods and turn of the default server name and add a custom server name. we also had to change it in secuirity mods as it was also changing the server name.
+We needed to go and change the configuration of the headmods and turn of the default server name and add a custom server name. we also had to change it in secuirity mods as it was also changing the server name. We Installed libapache2-mod-security2 and a2enmod security2. We changed the ServerToken OS to FUll and added SecServerSignature “CSE135 Server” in the /etc/apache2/apache2.conf file and finally restarted the apache2 to see the HTTP server changes we made.
 
 ## Screenshots
 
