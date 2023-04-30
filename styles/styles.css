@@ -1,8 +1,8 @@
 header {
   justify-content: center;
   align-items: center;
-  background-color: black;
-  color: white;
+  background-color: gainsboro;
+  color: black;
   padding: 20px;
   width: 20%;
   float: right;
@@ -41,3 +41,19 @@ h1 span {
   font-size: 24px;
   margin-top: 10px;
 }
+
+
+.grid-container{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 5px;
+  padding: 5px;
+}
+
+.hw2_item1, .hw2_item2{
+  background-color: white;
+  padding: 10px;
+  text-align: left;
+}
+
+
