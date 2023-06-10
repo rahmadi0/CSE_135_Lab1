@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Session Test</title>
+</head>
+
+<body>
+    <h1>Session Test</h1>
+
+    <form method="post" action="/cgi-bin/php-session-1.php">
+        <label for="name">What is your name?</label>
+        <input type="text" id="name" name="name"><br>
+
+        <label for="method">CGI using:</label>
+        <select id="method" name="method">
+			<option value="php_cookies">PHP (Cookies)</option>
+			<option value="php_url">PHP (URL)</option>
+		</select><br>
+
+        <input type="submit" value="Sessioning">
+    </form>
+
+    <a href="/">Home</a>
+</body>
+
+</html>

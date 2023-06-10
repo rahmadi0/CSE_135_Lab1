@@ -88,22 +88,7 @@
             </ul>
           </div>
 
-
           <div class="hw2_item5">
-            <ul>
-              <h3>Ruby-CGI</h3>
-              <li><a href="https://thechmods.com/cgi-bin/rb-hello-html-world.rb">Hello, Ruby!</a></li>
-              <li><a href="https://thechmods.com/cgi-bin/rb-hello-json-world.rb">Hello, Ruby! (JSON)</a></li>
-              <li><a href="https://thechmods.com/cgi-bin/rb-env.rb">Environment Variables</a></li>
-              <li><a href="https://thechmods.com/cgi-bin/rb-get-echo.rb">GET Echo</a></li>
-              <li><a href="https://thechmods.com/cgi-bin/rb-post-echo.rb">POST Echo</a></li>
-              <li><a href="https://thechmods.com/cgi-bin/rb-general-echo.rb">General Echo</a></li>
-              <li><a href="https://thechmods.com/rb-cgiform.html">Sessioning</a></li>
-            </ul>
-          </div>
-
-
-          <div class="hw2_item6">
             <ul>
               <h3>JSP-CGI</h3>
               <li><a href="https://thechmods.com/cgi-bin/JSP-Hello-HTML-world.jsp">Hello, JSP!</a></li>
@@ -119,11 +104,10 @@
       </div>
       </section>
       <section class="hw3">
-	<h2>Homework 3:</h2>
-        <ul>
-          <li><a href="https://thechmods.com/database.html"> Database Grid</a></li>
-          <li><a href="https://thechmods.com/hellodataviz.html"> Hello Data Viz</a></li>
-        </ul>
+	<ul>
+	  <li><a href="https://thechmods.com/database.html"> Database Grid </a></li>
+	  <li><a href=""> Database Grid </a></li>
+
         <h2>Analytics App:</h2>
         <ul>
           <li><a href="#">TBD</a></li>
